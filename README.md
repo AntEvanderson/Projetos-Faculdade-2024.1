@@ -1,4 +1,4 @@
-# Projetos-Faculdade-2024.1
+# Projeto Banco de Dados, Faculdade-2024.1
 
 Proposta:
 Crie um protótipo (independente da linguagem de programação) de um CRUD com acesso ao banco de dados para inserir, deletar e pesquisar dados em uma tabela específica.
